@@ -8,7 +8,7 @@
 # fundamentos.
 <p align="center"><img src="https://github.com/user-attachments/assets/0857facc-0d65-475d-876c-2139e3b81450" width="592"></p>
 
-# Primer fundamentos.
+# Primer fundamento.
 
 ## Linux -> Terminal:
 - Navegacion.
@@ -44,7 +44,7 @@
 - Que es una script
 - Como ejecutar una script
 
-# Segundo Fundamentos.
+# Segundo Fundamento.
 
 ## Redes -> Basico
 - Como funciona una red
@@ -61,7 +61,8 @@
 - Que es un servidor DHCP
 - Que es un paquete
 
-# Tercer Fundamentos.
+# Tercer Fundamento.
+
 ## Programacion:
 - Escoje un lenguaje.
 - Aprende los fundamentos del lenguaje.
@@ -73,7 +74,7 @@
 - Que eticamente puedes y no puedes hacer.
 - Conoce el objetivo de un Hacker Etico.
 
-# Cuarto Fundamentos.
+# Cuarto Fundamento.
 
 ## Especializaciones:
 <p align="center"><img src="https://github.com/user-attachments/assets/7c400328-8b4b-4f61-88c9-ebf6fc62aa5c" width="592"></p>
